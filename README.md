@@ -21,7 +21,7 @@ Aplicação de calendário da Copa do Mundo 2022.
 
 Você pode visualizar o layout do projeto através do link abaixo:
 
-- [Layout](<https://www.figma.com/file/DPFxxp43ztrMFudkxnYwb0/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1&t=7122GEtKa79m4Xbo-1>)
+- [Layout](https://www.figma.com/file/MhCiEmT5RYRdNblUSV7G2R/NLW-eSports-(Community)?node-id=6%3A23&t=9hKxySaplsE5wbjN-1)
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
